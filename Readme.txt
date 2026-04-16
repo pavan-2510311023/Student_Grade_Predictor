@@ -66,7 +66,7 @@ The dataset is synthetically generated for demonstration purposes.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/student-grade-predictor.git
+   git clone https://github.com/pavan-2510311023/Student_Grade_Predictor
    ```
 
 2. Navigate to the project folder:
@@ -90,7 +90,7 @@ The dataset is synthetically generated for demonstration purposes.
 ## 🔗 Project Links
 
 * **Colab Notebook:https://colab.research.google.com/drive/14ail8mozybUun40dGk4Hj6AMi-C45Tbd?usp=sharing
-* **GitHub Repository:** (Add your link here)
+* **GitHub Repository: https://github.com/pavan-2510311023/Student_Grade_Predictor
 
 ---
 
